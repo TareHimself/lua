@@ -1,7 +1,0 @@
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/lua.dir
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/edit_cache.dir
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/rebuild_cache.dir
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/list_install_components.dir
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/install.dir
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/install/local.dir
-D:/Github/luacpp/cmake-build-debug-system/CMakeFiles/install/strip.dir
