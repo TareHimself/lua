@@ -1,2 +1,1 @@
-# BassCpp
-## C++ Wrapper for BassAudio
+# Lua with cmake
