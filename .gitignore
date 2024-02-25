@@ -2,3 +2,5 @@
 **/native
 cmake-build-debug-system
 src
+.idea
+.vscode
